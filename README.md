@@ -1,3 +1,3 @@
-# Stardent Website
+# Starshipp
 
-- Website I'm making for my parents' buiness called Stardent
+- Funi game
